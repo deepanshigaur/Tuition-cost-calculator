@@ -1,3 +1,4 @@
+import os
 
 #Part A
 weeks = 16
